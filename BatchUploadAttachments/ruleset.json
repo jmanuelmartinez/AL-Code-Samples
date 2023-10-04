@@ -1,0 +1,77 @@
+{
+    "name": "Record Ruleset",
+    "description": "The record should be modified before saving to the database",
+    "rules": [
+        {
+            "id": "AA0214",
+            "action": "Error",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AA0218",
+            "action": "None",
+            "justification": "Ignored"
+        }
+        ,
+        {
+            "id": "AS0084",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AL0432",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AA0072",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AA0074",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AA0210",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AA0217",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AS0092",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "DOC0101",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AL0606",
+            "action": "None",
+            "justification": "Ignored"
+        },
+        {
+            "id": "AA0206",
+            "action": "Error",
+            "justification": "Justification"
+        },
+        {
+            "id": "AA0137",
+            "action": "Error",
+            "justification": "Justification"
+        },
+        {
+            "id": "AL0667",
+            "action": "Error",
+            "justification": "Justification"
+        }
+    ]
+}
